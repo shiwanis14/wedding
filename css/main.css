@@ -13,6 +13,7 @@ body {
   max-height: 1080px;
   background-size: contain;
   /* background-size: 100% 100%; */
+  background-color: rgba(0, 0, 0, 0.562);
 }
 .ww-home-page .ww-wedding-announcement {
   width: 100%;
@@ -52,7 +53,7 @@ body {
 
 .ww-home-page:before {
   content: "";
-  background-color: rgba(245, 138, 119, 0.2);
+  background-color: rgba(8, 1, 0, 0.2);
   width: 100%;
   height: 100%;
   height: 100vh;
