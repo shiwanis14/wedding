@@ -5,11 +5,12 @@ body {
 /* Home Page Style */
 .ww-home-page {
   background: url("../images/home-img.jpg") no-repeat center center;
-  background-size: cover;
+  /* background-size: cover; */
   background-position: 70%;
   height: 100vh;
   min-height: 480px;
   max-height: 1080px;
+  background-size: contain;
 }
 .ww-home-page .ww-wedding-announcement {
   width: 100%;
