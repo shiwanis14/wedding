@@ -8,12 +8,12 @@ body {
   /* background-size: cover; */
   /* background-position: 70%; */
   background-position: 55%;
-  height: 150vh;
+  height: 100vh;
   min-height: 480px;
   max-height: 1080px;
-  background-size: contain;
-  /* background-size: 100% 100%; */
-  background-color: rgba(0, 0, 0, 0.562);
+  /* background-size: cover; */
+  background-size: 97% 97%;
+  background-color: rgba(0, 0, 0, 0.801);
 }
 .ww-home-page .ww-wedding-announcement {
   width: 100%;
