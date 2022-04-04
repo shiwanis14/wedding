@@ -6,11 +6,13 @@ body {
 .ww-home-page {
   background: url("../images/home-img.jpg") no-repeat center center;
   /* background-size: cover; */
-  background-position: 70%;
+  /* background-position: 70%; */
+  background-position: 55%;
   height: 100vh;
   min-height: 480px;
   max-height: 1080px;
   background-size: contain;
+  /* background-size: 100% 100%; */
 }
 .ww-home-page .ww-wedding-announcement {
   width: 100%;
